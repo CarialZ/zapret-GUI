@@ -12,7 +12,7 @@
 
 - Видеть лог действий
 
-## Соц сети:
+## Соц.сети:
 - Telegram: https://t.me/carinalproject
 
 ## Требования
@@ -44,6 +44,6 @@ python --version
 В той же командной строке выполни:
 
 1. pip install PyQt6 (Если команда pip не работает то вводи это: py -m pip install PyQt6
-2. git clone  https://github.com/CarialZ/zapret-GUI.git
+2. git clone  https://github.com/CarinalZ/zapret-GUI.git
 3. cd "C:\Users\ТвоёИмя\Desktop\Zapret Launcher"
 4. Запусти: py zapret_interface.py
