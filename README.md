@@ -12,6 +12,9 @@
 
 - Видеть лог действий
 
+## Соц сети:
+- [Telegram] (https://t.me/carinalproject)
+
 ## Требования
 
 - **ОС:** Windows 10 / 11 (64-bit)
@@ -44,4 +47,3 @@ python --version
 2. git clone  https://github.com/CarialZ/zapret-GUI.git
 3. cd "C:\Users\ТвоёИмя\Desktop\Zapret Launcher"
 4. Запусти: py zapret_interface.py
-
